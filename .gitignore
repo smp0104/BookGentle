@@ -3,3 +3,5 @@
 ################################################################################
 
 /BookGentle/BookGentle/bin/Debug/netcoreapp3.1
+/BookGentle/BookGentle/obj
+/BookGentle/.vs/BookGentle
